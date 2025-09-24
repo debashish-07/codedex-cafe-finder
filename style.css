@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#search-container {
+  margin-bottom: 10px;
+}
+
+#search-input {
+  width: 250px;
+  padding: 8px;
+  font-size: 1em;
+}
+
+#search-btn, #locate-btn, #scan-btn {
+  padding: 8px 12px;
+  margin-left: 5px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+  border: 1px solid #ccc;
+}
